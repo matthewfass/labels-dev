@@ -9,3 +9,4 @@ button.approve {background-color: green;}
 button.reject {background-color: red;}
 .terms-conditions {margin-top: 20px;margin-bottom: 20px;max-height: 50vh;overflow-y: auto;padding: 20px;}
 .terms-conditions li {margin-top: 5px;margin-bottom: 5px;}
+button:disabled, button[disabled] {border: 1px solid #999;background-color: #ccc;color: #666;}
