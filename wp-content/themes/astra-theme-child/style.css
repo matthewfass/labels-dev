@@ -1,0 +1,8 @@
+#primary {margin: 1em 0;}
+li.menu-item-136 {margin-left: 40px;}
+.pending-approvals {font-size: 1.6em;background-color: green;padding: 0 10px;color: white;}
+td {vertical-align: top;line-height: 1.1em;}
+td.approval-action {font-size: 2em;}
+span.menu-number {font-weight: bold;}
+button.approve {background-color: green;}
+button.reject {background-color: red;}
